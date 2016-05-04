@@ -11,7 +11,7 @@
 #include <iomanip>
 #include <conio.h>
 #include <gl/freeglut.h>
-#include <atlconv.h>
+
 
 
 #define debug true
